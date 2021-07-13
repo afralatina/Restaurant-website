@@ -1,0 +1,52 @@
+* {
+    font-family: 'PT Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    width: 100%;
+    color: #fff;
+    background-color: rgb(88, 12, 12);
+    text-align: center;
+}
+.sidebar ul{
+    display: inline-flex;
+    list-style: none;
+}
+
+.sidebar ul li {
+    width: 100px;
+    margin: 15px;
+    padding: 15px;
+}
+.sibebar ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+.background{
+    background: linear-gradient( rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("https://westcottu.com/wp-content/uploads/Screen-Shot-2015-04-23-at-11.03.03-AM.png") 0 0 no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+
+}
+.centertext{
+    font-size: 100px;
+    font-weight: 700; 
+    font-family: 'Vampiro One', cursive;
+    color: #fff;
+    text-align: center;
+    height: 500px;
+    margin: auto;
+    width: 100%;
+    padding-top: 300px;
+}
+.Menu{
+    background-color: gray;
+    width: 100%;
+
+}
+.Contact Us{
+    background-color: 
+}
+
